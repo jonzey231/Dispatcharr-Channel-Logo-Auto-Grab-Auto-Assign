@@ -15,4 +15,6 @@ Logs include:
 - Final `done: {...}` summary.
 
 Instructions:
-Download the zip file from [Releases]([url](https://github.com/jonzey231/Dispatcharr-Channel-Logo-Auto-Grab-Auto-Assign/releases)) and import in Dispatcharr's Plugins tab.
+Download the zip file from Releases and import in Dispatcharr's Plugins tab.
+
+Major credit to [@tvlogos](https://github.com/jesmannstl/tvlogos) for compiling and providing the logos.
