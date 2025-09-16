@@ -17,3 +17,6 @@ Logs include:
 - `index: built N entries via trees api` or `index: using cached (N entries)`
 - `assign-fk: 'Channel' -> Logo('Key') via logo`
 - Final `done: {...}` summary.
+
+Instructions:
+Download the zip file and import in Dispatcharr's Plugins tab.
